@@ -1,0 +1,2 @@
+Main-Class: SpriteCreator
+Class-Path: SpriteCreator.jar

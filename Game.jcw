@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Game</label>
+		<id>639</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Game.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Game.jcp</path>
+		</project>
+	</projects>
+</workspace>

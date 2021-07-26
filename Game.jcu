@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Game</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Game</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>World.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>symbols.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Wall.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Vertex.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>SpriteCreator.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>WorldWorks.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>User.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
